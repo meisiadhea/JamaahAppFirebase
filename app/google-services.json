@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2591992790",
+    "firebase_url": "https://jamaahappfirebase-e66bc-default-rtdb.firebaseio.com",
+    "project_id": "jamaahappfirebase-e66bc",
+    "storage_bucket": "jamaahappfirebase-e66bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2591992790:android:d50e426301042a06001277",
+        "android_client_info": {
+          "package_name": "com.example.jamaahappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2591992790-855t0g3hv173h2u2jbtg18o25numetjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZPxo1amr_Q3zmw2TuXmcaS3TB26xV9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2591992790-855t0g3hv173h2u2jbtg18o25numetjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
